@@ -1,4 +1,4 @@
-# HomeAutomationSensors
+# Home Automation Sensors
 
 ## Temperature, humidity and light sensor
 Based on the DHT22 and BH1750 sensors, Arduino Pro Mini and the MySensors framework. Read more about this sensor [on my blog](http://sebastiaanschimmel.me/blog/2015/06/arduino-temp-hum-light-sensor.html).
